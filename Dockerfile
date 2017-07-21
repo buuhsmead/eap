@@ -1,4 +1,4 @@
-FROM openshift/eap70-openshift:latest
+FROM openshift/jboss-eap70-openshift:latest 
 
 MAINTAINER buuhsmead
 
